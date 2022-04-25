@@ -1,0 +1,43 @@
+.Button {
+    margin-top: 5px;
+    margin-right: 5px;
+    float: left;
+}
+
+.Card {
+    margin-top: 10px;
+    margin-right: 10px;
+    border: solid;
+    border-width:0.00001em;
+    color: darkslategrey;
+}
+
+.ModalFooter {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.centrado {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.justificado {
+    text-align: justify;
+    padding-bottom: 10px;
+}
+
+.item-imagen:hover {
+    border: solid;
+    border-width:0.00001em;
+    color: darkslategrey;
+    -moz-transform: scale(1.4);
+    -webkit-transform: scale(1.4);
+    -o-transform: scale(1.4);
+    -ms-transform: scale(1.4);
+    transform: scale(1.4);
+    transition: width 2s, height 2s, transform 2s;
+    -moz-transition: width 2s, height 2s, transform 2s;
+    -webkit-transition: width 2s, height 2s, transform 2s;
+    -o-transition: width 2s, height 2s, transform 2s;
+  }

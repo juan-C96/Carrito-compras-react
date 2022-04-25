@@ -1,0 +1,20 @@
+{
+    "listaProductosMOVIL": [
+        {
+            "titulo" : "Samsung Galaxy S22 Ultra 5G Teléfono Móvil 256GB",
+            "codigo": "B09NRSFNCL",
+            "imagen" : "https://m.media-amazon.com/images/I/41TNKNrcqvL._SL500_.jpg",
+            "descripcion" : "Android 11, Capacidad de almacenamiento de memoria 8 GB, Operador de servicios inalámbricos Todas las empresas de transportes, Tecnología de móvil de 5G y Componentes incluidos: Cable de datos USB-C, Adaptador de viaje, Expulsor de bandeja SIM, Herramienta de expulsión de pines, Teléfono.",
+            "precio" : "1299.00",
+            "stock" : "32"
+        },
+        {
+            "titulo" : "Amazfit GTS 2e Smartwatch Reloj Inteligente",
+            "codigo": "B08PD8SVF2",
+            "imagen" : "https://tecnostore.com.py/tstore/wp-content/uploads/2021/02/gts-2e-1-520x520.png",
+            "descripcion" : "Marca Amazfit, Tamaño de pantalla 1.65 Pulgadas, Sistema operativo Android, Rango de edad (descripción) Erwachsener, Tecnología de conectividad GPS, Forma Asimétrico y Estilo GTS 2e.",
+            "precio" : "99.90",
+            "stock" : "11"
+        }
+    ]
+}

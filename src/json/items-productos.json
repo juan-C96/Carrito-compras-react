@@ -1,0 +1,52 @@
+{
+    "listaProductos": [
+        {
+            "titulo" : "Samsung QLED 4K 2021 65Q74A - Smart TV",
+            "codigo": "B094JR16GX",
+            "imagen" : "https://media.krefel.be/sys-master/products/8977740103710/1200x1200.31002179_5.jpg",
+            "descripcion" : "TV Procesador QLED 4K con IA, 100% Volumen de color, Quantum HDR10+, Contrast Enhancer, Modo juego panorámico y Videollamadas desde el TV.",
+            "precio" : "899.00",
+            "stock" : "0"
+        },
+        {
+            "titulo" : "Proyector WiFi Bluetooth Full HD 1080P 4K Soporte",
+            "codigo": "B08LSWGP31",
+            "imagen" : "https://images-na.ssl-images-amazon.com/images/I/71ghRG0vm0L._AC_SL1500_.jpg",
+            "descripcion" : "Interfaz de hardware Bluetooth, USB, HDMI, Bluetooth 5. Marca WiMiUS, Potencia eléctrica de 10 vatios, Brillo 9000 lm, Resolución de pantalla 1920 x 1080 4K Ultra HD Píxeles.",
+            "precio" : "215.28",
+            "stock" : "8"
+        },
+        {
+            "titulo" : "Samsung Galaxy S22 Ultra 5G Teléfono Móvil 256GB",
+            "codigo": "B09NRSFNCL",
+            "imagen" : "https://m.media-amazon.com/images/I/41TNKNrcqvL._SL500_.jpg",
+            "descripcion" : "Android 11, Capacidad de almacenamiento de memoria 8 GB, Operador de servicios inalámbricos Todas las empresas de transportes, Tecnología de móvil de 5G y Componentes incluidos: Cable de datos USB-C, Adaptador de viaje, Expulsor de bandeja SIM, Herramienta de expulsión de pines, Teléfono.",
+            "precio" : "1299.00",
+            "stock" : "32"
+        },
+        {
+            "titulo" : "Amazfit GTS 2e Smartwatch Reloj Inteligente",
+            "codigo": "B08PD8SVF2",
+            "imagen" : "https://tecnostore.com.py/tstore/wp-content/uploads/2021/02/gts-2e-1-520x520.png",
+            "descripcion" : "Marca Amazfit, Tamaño de pantalla 1.65 Pulgadas, Sistema operativo Android, Rango de edad (descripción) Erwachsener, Tecnología de conectividad GPS, Forma Asimétrico y Estilo GTS 2e.",
+            "precio" : "99.90",
+            "stock" : "11"
+        },
+        {
+            "titulo" : "ASUS ROG G513IC-HN004 - Portátil Gaming",
+            "codigo": "B097Q1QQMJ",
+            "imagen" : "https://www.worten.es/i/44b473257161b05f864524ff1cc21c3a9e9cf4b6.jpg",
+            "descripcion" : "Pantalla de 15.6, Procesador AMD Ryzen 7 4800H (8C/OctaCore 2.9 / 4.2GHz, 8MB), Memoria RAM de 16GB SO-DIMM DDR4 3200MHz, Almacenamiento de 512GB SSD M.2 NVMe PCIe, Tarjeta gráfica NVIDIA GeForce RTX 3050 4GB GDDR6 y Sin Sistema Operativo.",
+            "precio" : "947.50",
+            "stock" : "3"
+        },
+        {
+            "titulo" : "Hp Elite 8300 SFF - Ordenador de sobremesa",
+            "codigo": "B08HS66VPC",
+            "imagen" : "https://m.media-amazon.com/images/I/71CPktuelPL._AC_SL1500_.jpg",
+            "descripcion" : "Procesador Intel Core i5-3470 caché de 6M, hasta 3,60 GHz, Memoria RAM 8GB DDR3, Almacenamiento de 240 GB SSD + 500GB HDD, Monitor de 22'' marca, modelo y color según stock y Sistema Operativo: Windows 10 PRO.",
+            "precio" : "329.00",
+            "stock" : "15"
+        }
+    ]
+}

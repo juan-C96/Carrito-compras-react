@@ -1,0 +1,20 @@
+{
+    "listaProductosTV": [
+        {
+            "titulo" : "Samsung QLED 4K 2021 65Q74A - Smart TV",
+            "codigo": "B094JR16GX",
+            "imagen" : "https://media.krefel.be/sys-master/products/8977740103710/1200x1200.31002179_5.jpg",
+            "descripcion" : "TV Procesador QLED 4K con IA, 100% Volumen de color, Quantum HDR10+, Contrast Enhancer, Modo juego panorámico y Videollamadas desde el TV.",
+            "precio" : "899.00",
+            "stock" : "0"
+        },
+        {
+            "titulo" : "Proyector WiFi Bluetooth Full HD 1080P 4K Soporte",
+            "codigo": "B08LSWGP31",
+            "imagen" : "https://images-na.ssl-images-amazon.com/images/I/71ghRG0vm0L._AC_SL1500_.jpg",
+            "descripcion" : "Interfaz de hardware Bluetooth, USB, HDMI, Bluetooth 5. Marca WiMiUS, Potencia eléctrica de 10 vatios, Brillo 9000 lm, Resolución de pantalla 1920 x 1080 4K Ultra HD Píxeles.",
+            "precio" : "215.28",
+            "stock" : "8"
+        }
+    ]
+}
